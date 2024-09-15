@@ -4,11 +4,18 @@ Link of links that are interesting
 ## Models
 
 ## RAG libraries
-The GraphRAG project is a data pipeline and transformation suite that is designed to extract meaningful, structured data from unstructured text using the power of LLMs. https://github.com/microsoft/graphrag?tab=readme-ov-file    
-
-RAGFlow is an open-source RAG (Retrieval-Augmented Generation) engine based on deep document understanding. It offers a streamlined RAG workflow for businesses of any scale, combining LLM (Large Language Models) to provide truthful question-answering capabilities, backed by well-founded citations from various complex formatted data. https://github.com/infiniflow/ragflow
+* The GraphRAG project is a data pipeline and transformation suite that is designed to extract meaningful, structured data from unstructured text using the power of LLMs. https://github.com/microsoft/graphrag?tab=readme-ov-file    
+    * https://www.youtube.com/watch?v=vX3A96_F3FU
+    * https://www.reddit.com/r/LocalLLaMA/comments/1du6c8d/graphrag_ollama_intelligent_search_of_local_data/?captcha=1
+    * 
  
+* Welcome to GraphRAG Local Ollama! This repository is an exciting adaptation of Microsoft's GraphRAG, tailored to support local models downloaded using Ollama. Say goodbye to costly OpenAPI models and hello to efficient, cost-effective local inference using Ollama!  https://github.com/TheAiSingularity/graphrag-local-ollama 
+    
+* RAGFlow is an open-source RAG (Retrieval-Augmented Generation) engine based on deep document understanding. It offers a streamlined RAG workflow for businesses of any scale, combining LLM (Large Language Models) to provide truthful question-answering capabilities, backed by well-founded citations from various complex formatted data. https://github.com/infiniflow/ragflow
+ 
+* Haystack is an end-to-end framework that you can use to build powerful and production-ready pipelines with Large Language Models (LLMs) for different search use cases. Whether you want to perform retrieval-augmented generation (RAG), question answering, or semantic document search, you can use the state-of-the-art LLMs and NLP models in Haystack to provide custom search experiences and make it possible for your users to query in natural language. https://github.com/deepset-ai/haystack?tab=readme-ov-file 
 
+ 
 
 
 ## Tutorials
