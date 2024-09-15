@@ -15,11 +15,16 @@ Link of links that are interesting
  
 * Haystack is an end-to-end framework that you can use to build powerful and production-ready pipelines with Large Language Models (LLMs) for different search use cases. Whether you want to perform retrieval-augmented generation (RAG), question answering, or semantic document search, you can use the state-of-the-art LLMs and NLP models in Haystack to provide custom search experiences and make it possible for your users to query in natural language. https://github.com/deepset-ai/haystack?tab=readme-ov-file 
 
+* An open-source clean & customizable RAG UI for chatting with your documents. Built with both end users and developers in mind. https://github.com/Cinnamon/kotaemon/
+  * https://www.youtube.com/watch?v=eynb_QUzYJE
  
+* Langchain: Build context-aware reasoning applications https://github.com/langchain-ai/langchain
+   *  https://www.youtube.com/watch?v=nkbyD4joa0A    
 
 
 ## Tutorials
 Learn to architect and implement a production-ready LLM & RAG system by building your LLM Twin https://github.com/decodingml/llm-twin-course
+
 
 ## other libraries   
 
