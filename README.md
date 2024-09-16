@@ -1,7 +1,8 @@
 # Interesting Information
-Link of links that are interesting    
+Link of interesting sites   
 # AI
 ## Models
+* Get up and running with large language models. https://github.com/ollama/ollama/tree/main 
 
 ## RAG libraries
 * The GraphRAG project is a data pipeline and transformation suite that is designed to extract meaningful, structured data from unstructured text using the power of LLMs. https://github.com/microsoft/graphrag?tab=readme-ov-file    
@@ -27,7 +28,8 @@ Learn to architect and implement a production-ready LLM & RAG system by building
 
 
 ## other libraries   
-
+* VSC extension for AI coding help:
+  * https://www.youtube.com/watch?v=HiQfgIhV-Jw
 
 
 
