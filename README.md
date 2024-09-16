@@ -32,5 +32,8 @@ Learn to architect and implement a production-ready LLM & RAG system by building
   * https://www.youtube.com/watch?v=HiQfgIhV-Jw
 
 
+# Linux
+## Setup
+* Enable hibernate with swapfile or swap partition: https://ubuntuhandbook.org/index.php/2021/08/enable-hibernate-ubuntu-21-10/
 
 
