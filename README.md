@@ -20,7 +20,8 @@ Link of interesting sites
   * https://www.youtube.com/watch?v=eynb_QUzYJE
  
 * Langchain: Build context-aware reasoning applications https://github.com/langchain-ai/langchain
-   *  https://www.youtube.com/watch?v=nkbyD4joa0A    
+   *  https://www.youtube.com/watch?v=nkbyD4joa0A
+   *  https://www.youtube.com/watch?v=6OPFiHjFm4o
 
 
 ## Tutorials
