@@ -34,7 +34,10 @@ Learn to architect and implement a production-ready LLM & RAG system by building
 
 
 # Linux
+
 ## Setup
 * Enable hibernate with swapfile or swap partition: https://ubuntuhandbook.org/index.php/2021/08/enable-hibernate-ubuntu-21-10/
 
-
+# Codeing information
+* creating and uploading videos to YouTube using Python
+   * https://dev.to/viniciusenari/automating-content-creation-with-python-a-guide-to-building-a-twitch-highlights-bot-part-1-1h6m
