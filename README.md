@@ -25,8 +25,8 @@ Link of interesting sites
 
 
 ## Tutorials and reading list
-Learn to architect and implement a production-ready LLM & RAG system by building your LLM Twin https://github.com/decodingml/llm-twin-course
-Anti-hype LLM reading list  https://gist.github.com/veekaybee/be375ab33085102f9027853128dc5f0e
+   * Learn to architect and implement a production-ready LLM & RAG system by building your LLM Twin https://github.com/decodingml/llm-twin-course
+   * Anti-hype LLM reading list  https://gist.github.com/veekaybee/be375ab33085102f9027853128dc5f0e
 
 
 ## other libraries   
