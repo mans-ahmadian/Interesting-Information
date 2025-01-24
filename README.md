@@ -22,7 +22,9 @@ Link of interesting sites
 * Langchain: Build context-aware reasoning applications https://github.com/langchain-ai/langchain
    *  https://www.youtube.com/watch?v=nkbyD4joa0A
    *  https://www.youtube.com/watch?v=6OPFiHjFm4o
+# Interesting repositories
 
+* Top 10 Trending GitHub Repositories, January 2025 https://dev.to/leamsigc/top-10-trending-github-repositories-january-2025-1f24
 
 ## Tutorials and reading list
    * Learn to architect and implement a production-ready LLM & RAG system by building your LLM Twin https://github.com/decodingml/llm-twin-course
