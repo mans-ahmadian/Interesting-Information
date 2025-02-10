@@ -1,5 +1,5 @@
 # Interesting Information
-Link of interesting sites   
+Link to interesting sites   
 # AI
 ## Models
 * Get up and running with large language models. https://github.com/ollama/ollama/tree/main 
@@ -26,11 +26,15 @@ Link of interesting sites
 
 * Top 10 Trending GitHub Repositories, January 2025 https://dev.to/leamsigc/top-10-trending-github-repositories-january-2025-1f24
 
+
 ## Tutorials and reading list
    * Learn to architect and implement a production-ready LLM & RAG system by building your LLM Twin https://github.com/decodingml/llm-twin-course
    * Anti-hype LLM reading list  https://gist.github.com/veekaybee/be375ab33085102f9027853128dc5f0e
 
+## Python libraries
+* Docling simplifies document processing, parsing diverse formats : https://github.com/DS4SD/docling
 
+  
 ## other libraries   
 * VSC extension for AI coding help:
   * https://www.youtube.com/watch?v=HiQfgIhV-Jw
