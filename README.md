@@ -25,6 +25,7 @@ Link to interesting sites
 # Interesting repositories
 
 * Top 10 Trending GitHub Repositories, January 2025 https://dev.to/leamsigc/top-10-trending-github-repositories-january-2025-1f24
+*  [OWL: Optimized Workforce Learning for General Multi-Agent Assistance in Real-World Task Automation](https://github.com/camel-ai/owl)
 
 
 ## Tutorials and reading list
